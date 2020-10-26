@@ -33,8 +33,10 @@ end
 
 def return_string_array(arr)
 counter = 0
+new_arr = []
 while counter < arr.length
-  arr[count].to_s
+  new_arr.push([count].to_s)
   counter += 1
 end
+new_arr
 end
