@@ -19,17 +19,11 @@ end
 def output_array (arr)
   counter = 0
   while counter < arr.length
-    puts arr
+    puts arr[counter]
     counter += 1
   end
 end
 
-def return_string_array(arr)
-counter = 0
-while counter < arr.length
-  counter += 1
-end
-end
 
 def return_string_array(arr)
 counter = 0
