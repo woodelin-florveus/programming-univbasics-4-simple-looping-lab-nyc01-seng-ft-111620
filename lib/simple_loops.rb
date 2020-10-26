@@ -18,7 +18,7 @@ end
 
 def output_array (arr)
   counter = 0
-  while counter < arr.length 
+  while counter < arr.length
     puts arr
     counter += 1
   end
