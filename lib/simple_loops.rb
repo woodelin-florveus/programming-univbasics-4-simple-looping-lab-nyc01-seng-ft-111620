@@ -24,4 +24,3 @@ def output_array (arr)
   end
 
 end
-
